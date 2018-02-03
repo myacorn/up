@@ -23,7 +23,7 @@ Ideally, this would be both hosted on GitHub Pages and also be served over https
 
 *Backup tool*
 
-- Backup/restore MySQL/PostgreSQL database(s), e.g. `` pg_dump $dbname > $dbname_`date "+%Y%m%d%H%M"`.sql ``
+- Backup/restore MySQL/PostgreSQL database(s), e.g. `` pg_dump $dbname > ${dbname}_`date "+%Y%m%d%H%M"`.sql ``
 
 - Add crontab for regular backups to standard location
 
