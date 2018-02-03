@@ -20,3 +20,5 @@ Ideally, this would be both hosted on GitHub Pages and also be served over https
 - List all Apache/NGINX sites
 - List all supervisor jobs
 - For each webapp, list all Django superusers and number of users
+
+Should basic smoke tests also live here?
